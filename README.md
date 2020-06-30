@@ -11,7 +11,7 @@ A jornada do aprendizado continua para além das salas da instituição, e todos
 “A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original” - Oliver Wendell Holmes Sr.  
 
 
-                                                                                      Resumo
+                                                                Resumo
 
 O projeto consiste no desenvolvimento de um software web que auxilia no monitoramento do fluxo de serviços de assistência técnica, onde os funcionários da empresa poderão executar ações pré-definidas pelo sistema de acordo com seu nível de permissionamento.
  O sistema conta com cadastro de: cidade, cliente, funcionário, ordem de serviço e permissões.
