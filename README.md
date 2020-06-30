@@ -2,7 +2,7 @@
 Software empresarial para gerenciamento de tickets e funcionários.
 
 
-                                                             Agradecimentos
+                                     Agradecimentos
 
 Sem dúvidas a jornada que empreendemos juntos até aqui foi um desafio à todos, tanto discentes como docentes, não apenas como mestres e aprendizes, mas também como pessoas, seres humanos e profissionais.
 Gostaríamos de agradecer, primeiramente ao professor Cláudio Ferreira, por fazer parte do processo de introdução aos conhecimentos técnicos relacionados à manutenção de computadores, redes de computadores, e alguns aspectos de desenvolvimento de sistemas mais especificamente relacionados ao levantamento de requisitos e banco de dados. Além disso, expressar nossa gratidão por todos os conselhos, broncas, risadas, kahoots, paciência e atenção empreendidas(os) para lidar com nossas cabeças duras, a sua forma de ensinar contribuiu de uma forma extraordinária para que pudéssemos chegar até aqui. É um mestre que demonstra honestidade, sinceridade e motivação exemplares, e o mundo agradeceria se mais pessoas agissem da mesma forma.
